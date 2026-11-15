@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /_authenticated
+Disallow: /auth
+
+Sitemap: https://airport-transfers-app-26.web.app/sitemap.xml
